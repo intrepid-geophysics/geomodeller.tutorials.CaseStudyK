@@ -1,1 +1,1 @@
-# geomodeller.tutorials.CaseStudyK
+# GeoModeller CaseStudyK (Dykes)
