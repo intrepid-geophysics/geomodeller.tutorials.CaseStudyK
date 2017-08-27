@@ -1,0 +1,62 @@
+MetaData Begin
+	Name	= calculated_Magnetism_1.igmesh
+	Version	= "Intrepid 3D GeoModeller v2.0.0 default for Windows (x64) by BILL debug build 7126d57bdf9e "
+	quad_calculated_Magnetism_1 Begin
+		DataType	= IEEE4ByteReal
+		ByteOrder	= LSBFirst
+		Primitive	= quad
+		Alias	= none
+		Units	= "RAW"
+	quad_calculated_Magnetism_1 End
+	MeshGrid Begin
+		Type	= regular-grid
+		Dimensions	= 2
+		Purpose	= MODEL
+		Suffix	= .ers
+		Format	= iogrid
+		Name	= calculated_Magnetism_1
+		Projection	= "SUTM35"
+		Datum	= "WGS84"
+		GridExtents = {
+			             66
+			            100
+			              1
+}
+		Origin = {
+			  683000.000000
+			 7330300.000000
+			              0
+}
+		Spacing = {
+			     300.000000
+			     300.000000
+			              0
+}
+		BasisX = {
+			       1.000000
+			              0
+			              0
+}
+		BasisY = {
+			              0
+			       1.000000
+			              0
+}
+		BasisZ = {
+			              0
+			              0
+			       1.000000
+}
+		FieldData Begin
+			calculated_Magnetism_1 Begin
+				Resource	= calculated_Magnetism_1.igmesh/calculated_Magnetism_1.ers
+				Name	= calculated_Magnetism_1
+				Primitive	= quad
+				DataType	= IEEE4ByteReal
+				Units	= RAW
+				Alias	= none
+				NumElem	= 6600
+			calculated_Magnetism_1 End
+		FieldData End
+	MeshGrid End
+MetaData End

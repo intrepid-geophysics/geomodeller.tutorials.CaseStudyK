@@ -1,0 +1,546 @@
+IntrepidTask {
+  ForwardModelFromDykes {
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 702834.58
+          y0: 7344715.12
+          z0: 0
+          strike: 256.10764134982719
+        }
+        properties {
+          ka: -8e-005
+        }
+        dyke {
+          width: 55
+          slope: 80
+          height: 790
+          length: 74.3
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke7"
+    }
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 692441.68
+          y0: 7343357.9
+          z0: 0
+          strike: 290.35599321724442
+        }
+        properties {
+          ka: 6e-005
+        }
+        dyke {
+          width: 60
+          slope: 70.4
+          height: 948
+          length: 106.9
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke7"
+    }
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 692800.34
+          y0: 7332100.86
+          z0: 0
+          strike: 189.93010802782311
+        }
+        properties {
+          ka: 0.00034
+        }
+        dyke {
+          width: 140.6
+          slope: 85.5
+          height: 658
+          length: 50.8
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke6"
+    }
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 693869.34
+          y0: 7345929.86
+          z0: 0
+          strike: 189.98040249338723
+        }
+        properties {
+          ka: 0.00034
+        }
+        dyke {
+          width: 131.6
+          slope: 80.5
+          height: 658
+          length: 50.8
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke6"
+    }
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 693441.98
+          y0: 7344465.37
+          z0: 0
+          strike: 190.50198207715789
+        }
+        properties {
+          ka: 6e-005
+        }
+        dyke {
+          width: 109.7
+          slope: 55.9
+          height: 548
+          length: 27.3
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke6"
+    }
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 692691.71
+          y0: 7342286.55
+          z0: 0
+          strike: 190.04530874436966
+        }
+        properties {
+          ka: 0.00145
+        }
+        dyke {
+          width: 173.7
+          slope: 91.4
+          height: 5868
+          length: 186.4
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke6"
+    }
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 692333.16
+          y0: 7340143.98
+          z0: 0
+          strike: 185.42691006854946
+        }
+        properties {
+          ka: 0.00027
+        }
+        dyke {
+          width: 227.5
+          slope: 70.5
+          height: 1137
+          length: 144.9
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke6"
+    }
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 695226.93
+          y0: 7347286.97
+          z0: 0
+          strike: 250.13237619197028
+        }
+        properties {
+          ka: 5e-005
+        }
+        dyke {
+          width: 109.7
+          slope: 102.7
+          height: 548
+          length: 28.6
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke1"
+    }
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 693048.8
+          y0: 7345751.66
+          z0: 0
+          strike: 251.05743770637892
+        }
+        properties {
+          ka: 0.00033
+        }
+        dyke {
+          width: 227.5
+          slope: 36.6
+          height: 1137
+          length: 141.9
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke1"
+    }
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 698441.68
+          y0: 7354430.11
+          z0: 0
+          strike: 261.65656507634469
+        }
+        properties {
+          ka: 0.0073
+        }
+        dyke {
+          width: 978.1
+          slope: 40
+          height: 4890
+          length: 896.2
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke4"
+    }
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 693048
+          y0: 7352680.62
+          z0: 0
+          strike: 261.01067950811671
+        }
+        properties {
+          ka: 0.00014
+        }
+        dyke {
+          width: 189.6
+          slope: 38
+          height: 948
+          length: 105.6
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke4"
+    }
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 689583.47
+          y0: 7350394.75
+          z0: 0
+          strike: 260.02009855496362
+        }
+        properties {
+          ka: 0.00022
+        }
+        dyke {
+          width: 273
+          slope: 40
+          height: 1365
+          length: 187.7
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke4"
+    }
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 694830.59
+          y0: 7340121.76
+          z0: 0
+          strike: 235.73931244582826
+        }
+        properties {
+          ka: 0.00019
+        }
+        dyke {
+          width: 131.6
+          slope: 55
+          height: 658
+          length: 50.9
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke5"
+    }
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 696176.01
+          y0: 7341673.48
+          z0: 0
+          strike: 232.72456628648564
+        }
+        properties {
+          ka: 0.00421
+        }
+        dyke {
+          width: 393.1
+          slope: 67.7
+          height: 1965
+          length: 305.9
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke5"
+    }
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 697368.95
+          y0: 7343261.07
+          z0: 0
+          strike: 229.17636233880611
+        }
+        properties {
+          ka: 3e-005
+        }
+        dyke {
+          width: 91.4
+          slope: 50
+          height: 457
+          length: 7.2
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke5"
+    }
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 697880.21
+          y0: 7344104.2
+          z0: 0
+          strike: 224.38405339397315
+        }
+        properties {
+          ka: 0.00036
+        }
+        dyke {
+          width: 471.7
+          slope: 56
+          height: 2358
+          length: 390.7
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke5"
+    }
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 699046.24
+          y0: 7346283.78
+          z0: 0
+          strike: 220.56556102220011
+        }
+        properties {
+          ka: 9e-005
+        }
+        dyke {
+          width: 131.6
+          slope: 65
+          height: 658
+          length: 44.8
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke5"
+    }
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 700122.57
+          y0: 7348562.02
+          z0: 0
+          strike: 215.40950979921263
+        }
+        properties {
+          ka: 0.0002
+        }
+        dyke {
+          width: 393.1
+          slope: 73.2
+          height: 1965
+          length: 308.8
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke5"
+    }
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 689418.1
+          y0: 7333562.44
+          z0: 0
+          strike: 226.39233330971075
+        }
+        properties {
+          ka: 0.0002
+        }
+        dyke {
+          width: 393.1
+          slope: 48
+          height: 1965
+          length: 310.9
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke5"
+    }
+    worms {
+      magField {
+        geofield: 50000
+        Azimuth: 0
+        Inclination: 90
+      }
+      bodyList {
+        position {
+          x0: 690337.77
+          y0: 7334537.86
+          z0: 0
+          strike: 238.16330071719821
+        }
+        properties {
+          ka: 0.0019
+        }
+        dyke {
+          width: 173.7
+          slope: 60
+          height: 5868
+          length: 188.8
+        }
+      }
+      bodyType: BT_DYKE
+      Name: "Dyke5"
+    }
+    product: Magnetism
+    IGRF {
+      Magnitude: 50000
+      Inclination: 90
+      Declination: 0
+    }
+    method: Facets
+    dyke_style: DS_PRISM
+    ComputedGridName: "C:/GeoModeller/GeoModeller2012_{ARCH}_11b3a728484d/tutorial/CaseStudyK/StartTutorialK2/dykecase//calculated_Magnetism_1.ers"
+    ObservationHeight: 20
+    OutputGridCoordSysType: ENU
+    Grid_Size: 300
+    ProjectionHint {
+      geographic2DCS: "WGS 84 / UTM zone 35S"
+    }
+    SetReferenceSusceptibility: 0
+    projectBox {
+      xmin: 683000
+      ymin: 7330000
+      xmax: 703000
+      ymax: 7360000
+    }
+  }
+}

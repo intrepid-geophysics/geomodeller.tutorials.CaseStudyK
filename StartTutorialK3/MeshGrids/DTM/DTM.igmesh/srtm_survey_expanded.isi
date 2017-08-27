@@ -1,0 +1,15 @@
+MetaData Begin
+	Name	= srtm_survey_expanded.ers
+	Version	= "Intrepid GeoModeller v5.0.0 default for Windows (x64) by NEPTUNE debug build 434363976a2e+ "
+	srtm_survey_expanded Begin
+		GroupBy	= no
+		DataType	= IEEE4ByteReal
+		ByteOrder	= LSBFirst
+		Primitive	= quad
+		Alias	= srtm_survey_expanded
+		Bands	= 1
+		Projection	= "SUTM35"
+		Datum	= "WGS84"
+		Units	= "none"
+	srtm_survey_expanded End
+MetaData End

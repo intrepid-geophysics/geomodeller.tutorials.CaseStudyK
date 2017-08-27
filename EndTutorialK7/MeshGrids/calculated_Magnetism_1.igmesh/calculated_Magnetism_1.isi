@@ -1,0 +1,15 @@
+MetaData Begin
+	Name	= calculated_Magnetism_1.ers
+	Version	= "Intrepid 3D GeoModeller v2.0.0 default for Windows (x64) by BILL debug build 7126d57bdf9e "
+	calculated_Magnetism_1 Begin
+		GroupBy	= no
+		DataType	= IEEE4ByteReal
+		ByteOrder	= LSBFirst
+		Primitive	= quad
+		Alias	= none
+		Bands	= 1
+		Projection	= "SUTM35"
+		Datum	= "WGS84"
+		Units	= "RAW"
+	calculated_Magnetism_1 End
+MetaData End

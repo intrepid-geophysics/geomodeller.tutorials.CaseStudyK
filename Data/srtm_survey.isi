@@ -1,0 +1,20 @@
+MetaData Begin
+	Name	= srtm_survey.ers
+	Version	= "Intrepid Visualisation v5.0.0 default for Windows (x64) by BUSTER debug build 20081c2c0ddb+ "
+	srtm_survey Begin
+		GroupBy	= no
+		DataType	= IEEE8ByteReal
+		ByteOrder	= LSBFirst
+		Bands	= 1
+		Samples	= 180000
+		Nulls	= 901
+		Minimum	=   937.921158144
+		Maximum	=   1816.68497153
+		Mean	=   1193.88621882
+		Variance	=   20264.2032417
+		Skew	=   1.10362317244
+		Kurtosis	=    1.0930972707
+		Projection	= "SUTM35"
+		Datum	= "WGS84"
+	srtm_survey End
+MetaData End

@@ -1,0 +1,31 @@
+DatasetHeader Begin
+	LastUpdated	= Thu Oct 27 07:27:47 GMT 2011
+	Version	= "5.0"
+	DataSetType	= ERStorage
+	DataType	= Raster
+	HeaderOffset	= 0
+	CoordinateSpace Begin
+		Projection	= "SUTM35"
+		CoordinateType	= EN
+		Datum	= "WGS84"
+		Rotation	= 0:0:0 
+	CoordinateSpace End
+	ByteOrder	= LSBFirst
+	RasterInfo Begin
+		CellType	= IEEE4ByteReal
+		NrOfLines	= 152
+		NrOfCellsPerLine	= 102
+		NrOfBands	= 1
+		NullCellValue	= -99999.00000000
+		CellInfo Begin
+			Xdimension	=    198.01980198
+			Ydimension	=   198.675496689
+		CellInfo End
+		RegistrationCellX	= 0
+		RegistrationCellY	= 0
+		RegistrationCoord Begin
+			Eastings	=   682900.990099
+			Northings	=   7360099.33775
+		RegistrationCoord End
+	RasterInfo End
+DatasetHeader End

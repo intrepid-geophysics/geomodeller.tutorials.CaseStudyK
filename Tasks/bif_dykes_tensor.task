@@ -1,0 +1,19 @@
+#  example of mag tensor dyke response forward modelling
+#IntrepidTask {
+	ForwardModelFromDykes {
+		InputDykesName: 	"project_dykes_imported..DIR";
+		InputField:  		"Susceptibility";
+		POSC_CoordinateSystem: 		"WGS84/SUTM53";
+		ComputedGridName:	"platreef_dykecoarse.ers"
+		product: 			MagneticTensors
+# 		DrapeSurfaceGridName =  
+#		OutputPrecision =  IEEE4ByteReal
+		OutputGridCoordSysType: ENU;
+		ObservationHeight: 	40.0;
+		Grid_Size:         	80.0;
+		Average_Dyke_Length: 400.;
+#		Susceptibility 	{  node: 0.01; node: 0.01; };
+		IGRF {	Date: "01/06/2008";	};
+		method: 			Dyke_Skeletons;
+	}
+#}

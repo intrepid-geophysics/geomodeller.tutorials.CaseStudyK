@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<VLDocking version="2.1">
+<DockingDesktop name="">
+<DockingPanel>
+<Split orientation="1" location="0.500542888165038">
+<Split orientation="1" location="0.34967320261437906">
+<Dockable>
+<Key dockName="Explore"/>
+</Dockable>
+<Dockable>
+<Key dockName="SurfaceTopography"/>
+</Dockable>
+</Split>
+<Dockable>
+<Key dockName="3D View"/>
+</Dockable>
+</Split>
+</DockingPanel>
+<TabGroups>
+</TabGroups>
+</DockingDesktop>
+</VLDocking>

@@ -1,0 +1,62 @@
+MetaData Begin
+	Name	= DTM.igmesh
+	Version	= "Intrepid GeoModeller v5.0.0 default for Windows (x64) by NEPTUNE debug build 434363976a2e+ "
+	quad_srtm_survey_expanded Begin
+		DataType	= IEEE4ByteReal
+		ByteOrder	= LSBFirst
+		Primitive	= quad
+		Alias	= srtm_survey_expanded
+	quad_srtm_survey_expanded End
+	MeshGrid Begin
+		Type	= regular-grid
+		Dimensions	= 2
+		Purpose	= MODEL
+		Description	= no description
+		Suffix	= .ers
+		Format	= iogrid
+		Name	= DTM
+		Projection	= "SUTM35"
+		Datum	= "WGS84"
+		GridExtents = {
+			            102
+			            152
+			              1
+}
+		Origin = {
+			  683000.000000
+			 7330000.000000
+			              0
+}
+		Spacing = {
+			     198.019802
+			     198.675497
+			              0
+}
+		BasisX = {
+			       1.000000
+			              0
+			              0
+}
+		BasisY = {
+			              0
+			       1.000000
+			              0
+}
+		BasisZ = {
+			              0
+			              0
+			       1.000000
+}
+		FieldData Begin
+			srtm_survey_expanded Begin
+				Resource	= DTM.igmesh/srtm_survey_expanded.ers
+				Name	= srtm_survey_expanded
+				Primitive	= quad
+				DataType	= IEEE4ByteReal
+				Units	= none
+				Alias	= srtm_survey_expanded
+				NumElem	= 15504
+			srtm_survey_expanded End
+		FieldData End
+	MeshGrid End
+MetaData End

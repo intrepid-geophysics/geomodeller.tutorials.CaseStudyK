@@ -1,0 +1,6 @@
+HoleID,From,To,Geology
+DDH1,0,292,Upper
+DDH1,292,516,Medium
+DDH1,516,645,Dyke5
+DDH1,645,728,Medium
+DDH1,728,800,Basement
